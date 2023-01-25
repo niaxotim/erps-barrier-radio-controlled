@@ -17,7 +17,7 @@ How else could we make it work? Well, that's where the power of remote control u
 
 ## Setting up our radio
 ### Step 1
-our BBC micro:bit has an in-built radio transmitter. This transmitter works on different 'channels'.  
+Our BBC micro:bit has an in-built radio transmitter. This transmitter works on different 'channels'.  
 
 We have to set which channel we want to use to transmit, and then listen on the same channel when we receive.  
 
