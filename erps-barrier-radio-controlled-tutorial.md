@@ -120,7 +120,7 @@ radio.onReceivedString(function (receivedString) {
 ```
 
 ### Step 8
-Connect your second BBC micro:bit and click ``|Download|`` to transfer your code.  
+Connect your BBC micro:bit and click ``|Download|`` to transfer your code.  
   
 When your micro:bit powers up, does the barrier set itself to the 'down' position as expected?
   
